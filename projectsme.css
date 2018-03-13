@@ -1,0 +1,94 @@
+.header{
+	background-color: #f5f5f0;
+	padding: 10px;
+	margin: -8px;
+}
+.header a{
+	margin-left: 4%;
+	color: black;
+	text-decoration: none;
+	padding: 3px;
+}
+.navigation-bar ul {
+  padding: 0px;
+  margin left: 30px;
+  text-align: center;
+  display:inline-block;
+  float: left;
+}
+.navigation-container li{
+	padding: 25px;
+  	display: inline-block;
+  	margin-left: 45px;
+    text-decoration: none;
+}
+
+
+ ul img{
+    position: absolute;
+    top: 38px;
+    left: 20px;
+	width: 7%;
+	float: left;
+
+}
+
+ul a{
+	text-decoration: none;
+	color: black;
+	display: inline-block;
+
+}
+.top img{
+	width: 100%;
+	height: 20%;
+}
+.top h1{
+	position: absolute;
+	left: 9%;
+	top: 300px;
+}
+.top h4{
+	position: absolute;
+	left: 9%;
+	top: 400px;
+}
+#button{
+
+    background-color:#1aa3ff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+ }
+ .floating-box {
+    float: left;
+    width: 30%;
+    height: 400px;
+    margin: 10px;
+    border: 3px solid black;  
+    text-align:center;
+    margin-left:2%;
+}
+.medium h1{
+      text-align: center;
+}
+.medium h2{
+	text-align: center;
+}
+.footer table{
+	float: right;
+}
+#zz{
+	padding: 30px;
+}
+.footerb{
+    
+    margin-left: 25%;
+}	
+
