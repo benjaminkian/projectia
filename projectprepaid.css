@@ -41,6 +41,9 @@ ul a{
 	color: black;
 	display: inline-block;
 	}	
+.navigation-container li:hover{
+  background-color: #e1e1ea;
+}
 .top img{
 	width: 100%;
 	height: 10%;
